@@ -1,3 +1,6 @@
+/*
+Original version by SplenectomY
+*/
 var SplenectomY = SplenectomY || {};
 
 SplenectomY.planets = SplenectomY.planets || {};
